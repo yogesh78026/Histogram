@@ -1,5 +1,6 @@
 # Histogram
 
+This is netlify link :- https://classy-selkie-c7bd6a.netlify.app/
 ![image](https://github.com/yogesh78026/Histogram/assets/77293859/e26738cb-6a25-40be-8ecd-afbfad92fcdd)
 
 
